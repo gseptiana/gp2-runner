@@ -1,0 +1,16 @@
+[ (36, "user 5") (35, "user 4") (34, "user 3") (33, "user 2") (32, "user 2") 
+  (31, "60-100") (30, "51-60") (29, "41-50") (28, "31-40") (27, "21-30") 
+  (26, "11-20") (25, "0-10") (24, "Female") (23, "Male") (22, "Western") 
+  (21, "War") (20, "Thriller") (19, "Sci-Fi") (18, "Romance") (17, "Mystery") 
+  (16, "Musical") (15, "Horror") (14, "Film-Noir") (13, "Fantasy") (12, "Drama") 
+  (11, "Documentary") (10, "Crime") (9, "Comedy") (8, "Children's") (7, "Animation") 
+  (6, "Adventure") (5, "Action") (4, "Copycat") (3, "Get Shorty") (2, "Postino Il") 
+  (1, "Mighty Aphrodite") (0, "Usual Suspects The") |
+  (7, 36, 24, empty) (6, 36, 28, empty) (5, 35, 23, empty) 
+  (4, 35, 27, empty) (3, 34, 23, empty) (2, 34, 27, empty) 
+  (1, 33, 24, empty) (0, 33, 30, empty) (30, 32, 27, empty) 
+  (29, 32, 23, empty) (18, 4, 20, empty) (17, 4, 12, empty) 
+  (16, 4, 10, empty) (15, 3, 12, empty) (14, 3, 9, empty) 
+  (13, 3, 5, empty) (12, 3, 18, empty) (11, 3, 12, empty) 
+  (10, 2, 9, empty) (9, 1, 20, empty) (8, 0, 10, empty) ]
+
